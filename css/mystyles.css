@@ -21,6 +21,10 @@ body {
     background-color: lightblue;
   }
 
-.home{
-    text-align: right;
+.list-items{
+    font-style: italic;
+}
+
+.order-list{
+    text-align: left;
 }
