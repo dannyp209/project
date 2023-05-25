@@ -1,0 +1,26 @@
+.title{
+    font-size: 50px;
+    color: darkviolet;
+    font-family: cursive;
+    text-align: center;
+}
+
+.subtitle{
+    font-size: 20px;
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+
+.list{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-color: lightblue;
+  }
+
+.home{
+    text-align: right;
+}
